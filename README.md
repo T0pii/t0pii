@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, C#, Python, JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/T0pii?tab=repositories](https://github.com/T0pii)
+- 👨‍💻 All of my projects are available at [https://github.com/T0pii](https://github.com/T0pii?tab=repositories)
 
 - 📫 How to reach me **lucas.co.pro@gmail.com**
 
