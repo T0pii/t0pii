@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t0pii&label=Profile%20views&color=0e75b6&style=flat" alt="t0pii" /> </p>
 
-- 🌱 I’m currently learning **Python, JS**
+- 🌱 I’m currently learning **Networking, JavaScript, Python**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/T0pii?tab=repositories)
 
-- 📫 How to reach me **lucas.co.pro@gmail.com**
+- 📫 How to reach me **topi.online+github@pm.me**
 
 - ⚡ Fun fact **shib.**
 
